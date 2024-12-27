@@ -56,11 +56,6 @@ BookHub is a comprehensive bookstore management system designed to streamline th
 
 5. **Access the application:**
     Open your browser and go to `http://localhost:1001`.
-### Screenshots
-![image](https://github.com/user-attachments/assets/430f568f-a0d8-48b9-926a-0e6166dff5ad)
-![image](https://github.com/user-attachments/assets/bf58389d-3125-4330-b475-ebfb0148c399)
-![image](https://github.com/user-attachments/assets/0023006c-08cb-4278-9a40-2f341e09c5a8)
-![image](https://github.com/user-attachments/assets/d00df2e7-6fde-4748-a5e6-7870721a6267)
 
 ## Usage
 
